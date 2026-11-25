@@ -8,5 +8,4 @@ It reads login events from a CSV file, counts successful and failed attempts, an
 ```bash
 python soc_analyzer.py
 ```
-
 Uses fictional login data for testing.
